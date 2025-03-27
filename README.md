@@ -1,10 +1,8 @@
 # Simple repo to kick-start your Elm project
 
-- npm
-  ```sh
+- ```sh
   npm i
   ```
-- npm
-  ```sh
+- ```sh
   npm start
   ```
